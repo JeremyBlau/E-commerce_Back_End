@@ -5,7 +5,7 @@ Screenshots
 ![image](https://github.com/JeremyBlau/E-commerce_Back_End/assets/134236414/49e6a755-78d2-4f89-8dfc-f2578e3bae53)
 
 ## Deployment
-The application is deployed and can be accessed through the following link: [Deployed Application](https://jeremyblau.github.io/Module-three-assignment/)
+The application is not deployed.
 
 ## Installation
 To install and run this project locally, follow these steps:
