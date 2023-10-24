@@ -5,7 +5,7 @@ Screenshots
 ![image](https://github.com/JeremyBlau/E-commerce_Back_End/assets/134236414/49e6a755-78d2-4f89-8dfc-f2578e3bae53)
 
 ## Deployment
-The application is not deployed.
+The application is not deployed. Here is a video of the application via Insomnia https://watch.screencastify.com/v/9DW1F5LericpoaadiPp1
 
 ## Installation
 To install and run this project locally, follow these steps:
